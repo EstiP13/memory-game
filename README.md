@@ -26,3 +26,16 @@ Puedes probar el juego en el siguiente enlace: [Demo del Juego de Memoria](https
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
+
+2. **Navega a la carpeta del proyecto:
+   ```bash
+   cd nombre-del-repositorio
+
+3. **Abre el archivo index.html en tu navegador para jugar.
+
+
+## Juego
+
+1. Haz clic en el botón "Iniciar" para comenzar el juego.
+2. Haz clic en las cartas para voltear y encontrar pares.
+3. El juego se completará cuando todas las cartas sean emparejadas.
