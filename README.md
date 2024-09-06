@@ -20,7 +20,7 @@ Aquí tienes algunas capturas de pantalla del juego en acción:
 
 ## Enlace a la Demo
 
-Puedes probar el juego en el siguiente enlace: [Demo del Juego de Memoria](https://tu-url-de-demo.com)
+Puedes probar el juego en el siguiente enlace: [Demo del Juego de Memoria](https://estip13.github.io/memory-game/)
 
 
 ## Instalación
