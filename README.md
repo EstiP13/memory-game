@@ -11,9 +11,11 @@ Este es un juego de memoria en el que debes encontrar pares de cartas que coinci
 - Tablero de juego con dimensiones configurables.
 
 
-## Captura de Pantalla
+### Capturas de Pantalla
 
-![Captura de pantalla](https://via.placeholder.com/600x400?text=Captura+de+Pantalla)
+Aquí tienes algunas capturas de pantalla del juego en acción:
+
+![Captura de Pantalla](images/demo-memory-game.png)
 
 
 ## Enlace a la Demo
